@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d2feaa6e-e4de-486a-a2d3-caf5621dd9e7/resourceGroups/newwebapp/providers/Microsoft.Web/sites/natewebapp2017"
+}

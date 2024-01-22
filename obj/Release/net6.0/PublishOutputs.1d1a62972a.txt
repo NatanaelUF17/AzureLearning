@@ -1,0 +1,8 @@
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/AzureLearning
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/appsettings.Development.json
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/appsettings.json
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/global.json
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/AzureLearning.dll
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/AzureLearning.deps.json
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/AzureLearning.runtimeconfig.json
+/var/folders/fd/9crtgvq96fn1fjchhl5tjrcr0000gp/T/rider-publish14801420774265156531/AzureLearning.pdb
